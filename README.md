@@ -6,4 +6,4 @@ Second edition, edit in readme-edit branch, change Common Edition from First to 
 
 -------------------------------------------
 Common Edition:
-First edition
+Second
