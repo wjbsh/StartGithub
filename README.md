@@ -6,4 +6,8 @@ Second edition, edit in readme-edit branch, change Common Edition from First to 
 
 -------------------------------------------
 Common Edition:
-Second
+Third
+
+---
+
+commit a new edition in one pull request
